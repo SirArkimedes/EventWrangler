@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SirArkimedes/EventWrangler/issues"
   },
-  "homepage": "https://github.com/SirArkimedes/EventWrangler#readme"
+  "homepage": "https://github.com/SirArkimedes/EventWrangler#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.18.0"
+  }
 }
