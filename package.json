@@ -1,0 +1,19 @@
+{
+  "name": "eventwrangler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirArkimedes/EventWrangler.git"
+  },
+  "author": "arob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirArkimedes/EventWrangler/issues"
+  },
+  "homepage": "https://github.com/SirArkimedes/EventWrangler#readme"
+}
